@@ -1,0 +1,3 @@
+﻿  sorting pancakes.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\sorting pancakes\sorting pancakes\sorting pancakes.cpp(8,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  sorting pancakes.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\sorting pancakes\x64\Debug\sorting pancakes.exe
